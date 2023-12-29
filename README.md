@@ -1,6 +1,5 @@
 This repository contains the source code for a personal portfolio website that showcases the skills, projects, and information about me. The website is built using HTML, CSS, and JavaScript, and it includes responsive design elements for optimal viewing on various devices.
 
-# Project Structure
 # index.html: 
 The main HTML file that serves as the entry point for the website. It contains the structure of the homepage, including sections for introduction, skills, projects, and contact information.
 
